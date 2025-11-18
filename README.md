@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co.com/wN4kQgPH/Abstract-Technology-Profile-Linked-In-Banner.png)]
+![MasterHead](https://i.ibb.co.com/wN4kQgPH/Abstract-Technology-Profile-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Tanjilul Islam</h1>
 <h3 align="center">I'm a Passionate Competitive Programmer & Full Stack Web Developer from Chittagong,Bangladesh</h3>
